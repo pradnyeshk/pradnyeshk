@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pradnyeshk
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in AI,ML
 - 🌱 I’m currently learning Machine Learning
 
 <!---
